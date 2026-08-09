@@ -1,0 +1,3 @@
+## 2026-06-23 - Removed maximum-scale=1 from viewport meta tag
+**Learning:** Using `maximum-scale=1` or `user-scalable=no` in the viewport meta tag restricts users from zooming in on the page. This is a significant accessibility barrier, especially for users with low vision who rely on pinch-to-zoom to read text or interact with elements. It violates WCAG 1.4.4 Resize text.
+**Action:** Always allow user scaling by removing `maximum-scale` and `user-scalable=no` attributes from the viewport meta tag. Rely on responsive design and adequate default text sizing instead of artificially limiting the user's ability to zoom.
