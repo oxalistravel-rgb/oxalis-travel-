@@ -1,0 +1,32 @@
+OXALIS TRAVEL - LOGICIEL DE GESTION (version 2)
+
+CE QU IL FAUT UNE SEULE FOIS :
+  1. Installer Node.js  : https://nodejs.org  (bouton vert, puis Suivant/Suivant)
+  2. Installer PostgreSQL : https://www.postgresql.org/download/windows/
+     Pendant l installation, notez le mot de passe choisi.
+
+POUR UTILISER LE LOGICIEL :
+  - Double-cliquez sur DEMARRER.bat
+  - La premiere fois, un fichier .env est cree.
+    Si votre mot de passe PostgreSQL n est PAS "postgres",
+    ouvrez .env avec le Bloc-notes et corrigez la ligne PGPASSWORD.
+  - Relancez DEMARRER.bat : le navigateur s ouvre sur le logiciel.
+
+LE LOGICIEL FAIT TOUT SEUL :
+  - il cherche le bon port de PostgreSQL (5432, 5433, 1234...)
+  - il cree la base oxalis_db si elle n existe pas
+  - il cree les tables (clients, produits, reservations, paiements, depenses)
+  - il ouvre l ecran de gestion dans le navigateur
+
+ECRANS DISPONIBLES :
+  Tableau de bord - Clients - Reservations - Paiements - Depenses
+
+IMPORTANT :
+  - Laissez la fenetre noire ouverte pendant que vous travaillez.
+  - Pour fermer : fermez la fenetre noire.
+  - Ne partagez jamais le fichier .env (il contient votre mot de passe).
+
+EN CAS DE PROBLEME :
+  Ouvrez le dossier, tapez cmd dans la barre d adresse, puis :
+     node src/test-connexion.js
+  Le message affiche dit exactement quoi corriger.
