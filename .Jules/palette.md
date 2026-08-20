@@ -1,0 +1,3 @@
+## 2026-08-20 - Remove Viewport Zoom Restrictions
+**Learning:** Preventing user zooming using `maximum-scale=1` in the viewport meta tag creates significant accessibility barriers, especially for users with low vision who rely on browser zoom features. WCAG guidelines explicitly advise against disabling zoom.
+**Action:** Always avoid setting `maximum-scale`, `minimum-scale`, or `user-scalable=no` in the viewport meta tag to ensure text and interfaces can be scaled by the user.
