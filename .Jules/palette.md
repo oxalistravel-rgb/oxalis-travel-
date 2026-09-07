@@ -1,0 +1,3 @@
+## 2026-09-07 - Amélioration de l'accessibilité du zoom (Viewport)
+**Learning:** L'utilisation de `maximum-scale=1` dans la balise meta viewport empêche les utilisateurs (notamment ceux souffrant de déficience visuelle) de zoomer sur le contenu, ce qui va à l'encontre des directives WCAG.
+**Action:** Toujours s'assurer que la balise meta viewport permet la mise à l'échelle (`content="width=device-width, initial-scale=1.0"`) pour garantir une bonne accessibilité mobile.
