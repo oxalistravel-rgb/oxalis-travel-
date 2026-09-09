@@ -1,27 +1,3 @@
-127.0.0.1 - - [09/Sep/2026 17:01:00] code 404, message File not found
-127.0.0.1 - - [09/Sep/2026 17:01:00] "GET /admin HTTP/1.1" 404 -
-127.0.0.1 - - [09/Sep/2026 17:04:38] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:38] "GET /assets/index-CgODOz--.js HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:38] "GET /assets/index-B15TVHL8.css HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] code 404, message File not found
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /api/programmes HTTP/1.1" 404 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /logo.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/japon-CvjuKGc0.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/maldives-BKoyi4Pv.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/hero-4s6Gj-S2.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/omra-Cb1d-CjM.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/maroc-CDB8OeS-.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/turquie-DqmlumSq.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/malaisie-tFK8b3lU.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/algerie-est-mXpVwGFw.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/algerie-ouest-Bh8WJ2pr.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/algerie-sud-BEc7vL2k.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:39] "GET /assets/hammam_e_dbagh_1775124789749-CWurBrMK.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /assets/tassili-UhHa0Is_.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /assets/tunisie-B-_gOlxh.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /assets/mauritanie-BK0yHwMx.png HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] code 404, message File not found
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /assets/istanbul_1776790146455-Bk3iC8la.mp4 HTTP/1.1" 404 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /data/programmes.json HTTP/1.1" 200 -
-127.0.0.1 - - [09/Sep/2026 17:04:40] code 404, message File not found
-127.0.0.1 - - [09/Sep/2026 17:04:40] "GET /assets/istanbul_1776790146455-Bk3iC8la.mp4 HTTP/1.1" 404 -
+127.0.0.1 - - [09/Sep/2026 20:59:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Sep/2026 20:59:59] "GET /assets/index-CgODOz--.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Sep/2026 20:59:59] "GET /assets/index-B15TVHL8.css HTTP/1.1" 200 -
