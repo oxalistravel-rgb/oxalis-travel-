@@ -1,0 +1,3 @@
+## 2024-09-13 - Allow Page Zooming for Accessibility
+**Learning:** Setting `maximum-scale=1` or `user-scalable=no` in the viewport meta tag disables zooming on mobile devices, which violates WCAG accessibility guidelines because it prevents visually impaired users from magnifying content.
+**Action:** Always ensure the viewport meta tag is simple (e.g. `content="width=device-width, initial-scale=1.0"`) to allow native zoom behavior.
